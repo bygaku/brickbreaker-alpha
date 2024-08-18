@@ -1,0 +1,14 @@
+﻿  block.cpp
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(109,75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(109,48): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(109,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(109,13): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(146,24): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(147,24): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(149,35): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(150,35): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(164,25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(165,25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(167,25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\block.cpp(168,25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  00_fundament-project.vcxproj -> D:\musicbyGaku\10_DxLib_202408_JIIKUS\Projects\01_brickbreaker_HomeWork ver2\x64\Debug\00_fundament-project.exe

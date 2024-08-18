@@ -1,0 +1,83 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/projects/01_brickbreaker_homework/gamedata.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "2b07887367acffdc8b0075f53e7b7cba62068313f41ee3fa28cf81f5f497554b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/projects/01_brickbreaker_homework/gamedata.h"
+          },
+          "hashes": {
+            "sha-256": "e45ea1cf7c166bd24374a6cba1a3171a6c087e5d40f37129994f4f2fee9764e4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/dxlib_h/dxlib.h"
+          },
+          "hashes": {
+            "sha-256": "a4a1c9aea89c5d166571bff249bd0aefac29c79ca477d5118ee1ec9349107392"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/dxlib_h/dxcompileconfig.h"
+          },
+          "hashes": {
+            "sha-256": "fb9fe6afcdfcc131806168aac206a32bc444af3c77baaca0d75559184ccb1ba5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/dxlib_h/dxdatatype.h"
+          },
+          "hashes": {
+            "sha-256": "4eebf2a3060be5f2216b2e0e0fbd1cd227b7b187f0333c6903be2fc98f5a526b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/dxlib_h/dxdatatypewin.h"
+          },
+          "hashes": {
+            "sha-256": "da78a48319bd734c9a534137f88692df3ab1b029e7d098ee4b26048240edffe1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/musicbygaku/10_dxlib_202408_jiikus/dxlib_h/dxfunctionwin.h"
+          },
+          "hashes": {
+            "sha-256": "3e6f53623e7d42d36fb4940e39b54d592430a35de0d7a16073e66e8530fe231c"
+          }
+        }
+      ]
+    }
+  ]
+}
